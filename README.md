@@ -4,6 +4,6 @@ Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização
 
 [![Watch the video](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb_gif.mp4)](https://github.com/fblpalmeira/foodweb/edit/main/README.md)
 
-<img src="jaguar_foodweb_gif.mp4">
+<img src="jaguar_foodweb.gif">
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
