@@ -1,9 +1,7 @@
-# foodweb
+# Jaguar (red circle) food web
 
-Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização sem fins lucrativos que atua em diversos países. Nós nos encontramos [virtualmente] para aprender sobre a linguagem R.
-
-[![Watch the video](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb_gif.mp4)](https://github.com/fblpalmeira/foodweb/edit/main/README.md)
+The trophic network presented six levels and, a high species richness and links density. After removal of the Jaguar (red circle), one trophic level and approximately 20% of links were lost. 
 
 <img src="jaguar_foodweb.gif">
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[Foodweb CRAN](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf).
