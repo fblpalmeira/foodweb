@@ -4,7 +4,7 @@ Predation (as well as the competition, herbivory or mutualism) is one of four bi
 
 - [Script `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
 
-- [Data base `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
+- [Database `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
 
 <img src="jaguar_foodweb.gif">
 
